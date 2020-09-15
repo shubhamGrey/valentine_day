@@ -1,0 +1,144 @@
+/*CSS document*/
+
+    html
+	{
+		width: 100%;
+		height: auto;
+	}
+	body
+	{
+		background-color:blue;
+	    text-align:center;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11px;
+		background-image: url("shikha valentine html/vf.jpg");
+	    background-size: 100%;
+	}
+	h5
+	{
+		margin-left: 21%;
+		text-align: justify;
+	}
+	#container
+	{
+		opacity:1;
+		width: 85%;
+		background: #fff;
+		margin: 0 auto;
+	}
+	#header
+	{
+		align: center;
+		width: 100% ;
+		height: 160px; 
+		border-bottom: 1px solid #c7c7c7; 
+		background-image: url("shikha valentine html/bb.jpg");
+	}
+	#logo
+	{
+		float: left;
+		width:  60px;
+		height: 60px;
+		margin-top: 30px;
+		margin-left: 10px;
+		background-image:url('shikha valentine html/love.png');
+		background-repeat:no-repeat;
+		text-align:right;
+		background-size: 100%;
+	}
+
+	#logobox h1
+	{
+		float: left;
+		padding:0px;
+		margin-top:40px;
+		margin-left:10px;
+		font-size:25px;
+		color:brown;
+	}
+	#top_info
+	{
+		float: right;
+		width: 250px;
+		height: 100px;
+		margin: 40px;
+
+	}
+	
+	#content_area
+	{
+		background-image: url("shikha valentine html/bbt.jpg");
+		background-size: 100%;
+		height: auto;
+		padding: 1%;
+		clear: both;
+		margin-left: 0%
+		
+	}
+	div.imgbox 
+	{
+
+		float:right;
+		width:160px;
+		height:240px;
+		text-align:center;
+		margin-left:10px;
+		margin-bottom:10px;
+	}
+
+	div.imgbox img 
+	{
+		border:1px solid #bbbbbb;
+		height: 40%;
+		width: 80%;
+	}
+
+	div.imgbox p 
+	{
+
+		text-align:left;
+		margin:0px;
+		padding:0px;
+		font-size:10pt;
+		color:#000;
+	}
+	#left_col
+	{
+		float: left;
+		width: 20%;
+		height: auto;
+		border: 1px solid #333;
+        background-image: url("shikha valentine html/wt.jpg");
+        background-size: 100%;
+	}
+	#left_col p
+	{
+		padding: 0.5%;
+		font-family: "times new roman";
+		color: #fff;
+	}
+	/*#right_col
+	{
+		float: right;
+		width: 290px;
+		height: 200px;
+		border: 1px solid #333;
+		color: #fff;
+	}*/
+	#footer
+	{
+		float: bottom;
+		align: center;
+		width: 100%;
+		height: 40px;
+		border-bottom: 1px solid #c7c7c7;
+		background: #aaaaaa; 
+	}
+	#footer p
+	{
+		padding: 0.5%;
+		margin-bottom: 1%;
+		font-family: "monotype corsiva";
+		font-size: 10pt;
+		color: #000;
+	}

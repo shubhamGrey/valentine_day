@@ -1,0 +1,13 @@
+.navbar-text > a
+{
+	color: inherit;
+	text-decoration: none;
+	padding-top: 30px;
+}
+
+body
+{
+	background-image: url(img/10.jpg);
+	padding-top: 70px;
+	
+}
